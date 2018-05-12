@@ -6,7 +6,7 @@ contributor:
     aliases:
     - Overend, W.H.
     - Overend, W. H. (William Heysham)
-    birthdate: &id001 1851
+    birthdate: 1851
     deathdate: 1898
     gutenberg_agent_id: '9706'
     url: http://www.gutenberg.org/2009/agents/9706
@@ -17,11 +17,13 @@ creator:
   author:
     agent_name: Collingwood, Harry
     alias: Lancaster, William Joseph Cosens
-    birthdate: *id001
+    birthdate: 1851
     deathdate: 1922
     gutenberg_agent_id: '9699'
     url: http://www.gutenberg.org/2009/agents/9699
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/21063#The-Missing-Merchantman
 gutenberg_issued: '2007-04-13'
 gutenberg_type: Text
 identifiers:
